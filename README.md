@@ -56,6 +56,6 @@ Exemplo de rodagem da Seção 1 do Notebook (Gráfico de Atendimento a Carga)
 
 ## Créditos
 Autores:
-Claudionor Ferreira da Silva Junior
-Amanda Ferreira de Azevedo 
-Felipe Gonçalves
+Claudionor Ferreira da Silva Junior;
+Amanda Ferreira de Azevedo;
+Felipe Gonçalves;
