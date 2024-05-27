@@ -29,7 +29,7 @@ Seção 3 (Rampas):
 - Gráfico empilhado de geração das principais fontes de energia, carga e curva líquida
 
 ```
-# Adicione comandos para instalar dependências, por exemplo:
+# Comando para instalação de pacotes necessários:
 pip install -r requirements.txt
 ```
 
@@ -55,4 +55,7 @@ Exemplo de rodagem da Seção 1 do Notebook (Gráfico de Atendimento a Carga)
 ```
 
 ## Créditos
-Agradecimentos a colaboradores, instituições ou qualquer entidade que contribuiu significativamente para o desenvolvimento do projeto.
+Autores:
+Claudionor Ferreira da Silva Junior
+Amanda Ferreira de Azevedo 
+Felipe Gonçalves
