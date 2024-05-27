@@ -1,21 +1,4 @@
-# Para adicionar uma biblioteca, escreva o nome dela seguido por '==', e a versão desejada. Por exemplo:
-# flask==1.1.2
-
 # Bibliotecas para análise de dados:
-# pandas==1.2.3
-# numpy==1.19.5
-
-# Bibliotecas para machine learning:
-# scikit-learn==0.24.1
-# tensorflow==2.4.1
-
-# Bibliotecas para visualização de dados:
-# matplotlib==3.3.4
-# seaborn==0.11.1
-
-# Biblioteca para testes:
-# pytest==6.2.3
-
-# Uma maneira de gerar os requirements do seu projeto automaticamente é usando a biblioteca pigar
-# Primeiro, instale-a com o comando pip install pigar
-# Depois, basta digitar em seu repositório pigar generate
+pandas==1.5.3
+seaborn==0.13.2
+matplotlib==3.8.3
